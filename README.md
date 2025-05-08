@@ -23,6 +23,8 @@ This is a Telegram bot written in C#, with commands, logic, and statistics savin
 
 ![Bot Screenshot](https://github.com/danya-dev24/telegram-bot-csharp/raw/main/screenshots/bot%20screenshots1.jpg)
 
+
+![Bot Screenshot](https://github.com/danya-dev24/telegram-bot-csharp/raw/main/screenshots/bot%20screenshots2.jpg)
   
 Author: danya-dev24  
 *Learning game dev & ready for freelance*
