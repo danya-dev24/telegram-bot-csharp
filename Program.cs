@@ -13,7 +13,7 @@ class Program
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-        var botClient = new TelegramBotClient("");
+        var botClient = new TelegramBotClient("YOUR_TOKEN_HERE");
 
         using var cts = new CancellationTokenSource();
 
